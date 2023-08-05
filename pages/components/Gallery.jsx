@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from "framer-motion"
 
 export default function Gallery() {
   return (
-    <div className='mx-20'>
+    <div id='gallery' className='mx-20'>
         <div className="container px-5 py-2 mx-auto lg:px-32 lg:pt-24">   
         <p className='p-3 text-2xl text-green-600 ' id=''>Gallery</p>
         <div className="flex flex-wrap -m-1 md:-m-2">
