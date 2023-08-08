@@ -35,7 +35,7 @@ export default function Projects() {
                     </p>
 
                     <div className='flex flex-row-reverse'>
-                        <a href='/projects/project-one' className="transition-colors duration-300 bg-gray-950 hover:bg-green-600  border-b-2  border-gray-950 inline-block px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-white " data-te-ripple-init data-te-ripple-color="light">
+                        <a target='_blank' href='https://github.com/John-Oliver04/maomamburao.git' className="transition-colors duration-300 bg-gray-950 hover:bg-green-600  border-b-2  border-gray-950 inline-block px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-white " data-te-ripple-init data-te-ripple-color="light">
                         Open
                         </a>
                     </div>
@@ -76,7 +76,7 @@ export default function Projects() {
                     </p>
         
                     <div className='flex flex-row-reverse'>
-                        <a href='/projects/project-one'  className="transition-colors duration-300 bg-gray-950 hover:bg-green-600  border-b-2  border-gray-950 inline-block px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-white " data-te-ripple-init data-te-ripple-color="light">
+                        <a target='_blank' href='https://github.com/John-Oliver04/smartfilter.git'  className="transition-colors duration-300 bg-gray-950 hover:bg-green-600  border-b-2  border-gray-950 inline-block px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-white " data-te-ripple-init data-te-ripple-color="light">
                         Open
                         </a>
                     </div>
@@ -110,13 +110,13 @@ export default function Projects() {
                         Project
                     </div>
                     <h5 className="mb-2 text-lg font-medium leading-tight text-green-600 dark:text-neutral-50">
-                        Occidental Mindoro Tourist Spot Website
+                        SB Office Storage Website
                     </h5>
                     <p className="mb-4 text-xs text-justify text-neutral-600 dark:text-neutral-200">
-                        Our website is designed to provide you with a comprehensive collection of information about various tourist spots, ensuring that you have all ...
+                        SB Office is a laravel project that help their office to save their old filles by uploading it to this website
                     </p> 
                     <div className='flex flex-row-reverse'>
-                        <a href='/projects/project-one' className="transition-colors duration-300 bg-gray-950  hover:bg-green-600 border-b-2  border-gray-950 inline-block px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-white " data-te-ripple-init data-te-ripple-color="light">
+                        <a target='_blank' href='https://github.com/John-Oliver04/SBOffice.git' className="transition-colors duration-300 bg-gray-950  hover:bg-green-600 border-b-2  border-gray-950 inline-block px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-white " data-te-ripple-init data-te-ripple-color="light">
                         Open
                         </a>
                     </div> 
